@@ -1,1 +1,1 @@
-# Starbucks Marketing: Producing an intelligent marketing campaign that works.
+# Starbucks Marketing: Producing an intelligent ML-powered marketing campaign.
