@@ -1,1 +1,1 @@
-# Starbucks Marketing: Creating methodical sales powered by machine learning.
+# Starbucks Marketing: Producing an intelligent marketing campaign that works.
