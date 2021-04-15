@@ -1,4 +1,4 @@
-# Starbucks Marketing: Producing an intelligent ML-powered marketing campaign.
+# Starbucks Marketing: The statistics of coffee transactions.
 We all love coffee, right? That's why a lot of people use Starbucks Rewards, the Starbucks program that earns you benefits with your purchases, but it goes beyond that: customer spending descriptive statistics, offer analysis & optimisation, demographical clustering, and purchase prediction. The data science behind customer spending and loyalty programs. All of those things are included in this project.
 
 ## Overview
