@@ -1,4 +1,4 @@
-# Starbucks Marketing: The statistics of coffee transactions.
+# Starbucks Marketing: Predicting sales and simulating marketing campaign.
 The Starbucks Rewards Program is the signature loyalty program of Starbucks, it comes with a card, an app, and plenty of special offers ready to be taken by their most loyal customers who are ready to pay what it gets to get their daily warm coffee. A portion of the Starbucks Rewards dataset has been released to the public so it can be freely explored, analysed and modelled.
 
 ## Overview
